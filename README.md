@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「 AnieXErica Music」──
+    ──「 𝗞𝗜𝗟𝗟𝗘𝗥 𝗠𝗨𝗦𝗜𝗫 」──
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/f20237d3a028a343d595a.jpg">
+  <img src="https://graph.org/file/d41746e92e9118a934eda.jpg">
 </p>
 
 <p align="center">
@@ -150,11 +150,11 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://t.me/AM_YTSupport"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/KILLER_OP12"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/AbhiModszYT_Return"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/ABOUT_MR_KILLER_OP"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 # Owner And Credit
